@@ -6,8 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzniel&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
  
 <a href="https://github.com/dzniel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzniel&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzniel&theme=buefy&layout=compact" />
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=dzniel&theme=buefy&show_icons=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzniel&theme=buefy&layout=compact"/>
 </a>
             
             
