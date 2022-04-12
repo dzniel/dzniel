@@ -2,8 +2,13 @@
 
 *Computer Science Student at <a href="https://binus.ac.id/">Binus Univesity*
  
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzniel&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzniel&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzniel&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzniel&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
+ 
+<a href="https://github.com/dzniel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzniel&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzniel&theme=buefy&layout=compact" />
+</a>
             
             
 <!--
