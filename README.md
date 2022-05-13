@@ -1,16 +1,12 @@
 # Hi there, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 
-*Computer Science Student at <a href="https://binus.ac.id/">Binus Univesity*
- 
-<!-- [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzniel&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzniel&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
+An undergraduate computer science student specializes in machine learning [@BINUS Univesity](https://binus.ac.id/)
+
+Continuously piling up my knowledge from online courses and hands-on projects.
  
 <a href="https://github.com/dzniel">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dzniel&theme=buefy&show_icons=true"/>
-</a>
- 
- <a>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzniel&theme=buefy&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzniel&theme=buefy&layout=compact"/>
  </a>
             
             
