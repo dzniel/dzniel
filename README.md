@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
+# Hi there, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-height:100%;">
 
 An undergraduate computer science student specializes in machine learning [@BINUS Univesity](https://binus.ac.id/)
 
