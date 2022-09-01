@@ -1,8 +1,6 @@
 # Hi there, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-height:100%;">
 
-An undergraduate computer science student specializes in machine learning [@BINUS Univesity](https://binus.ac.id/)
-
-Continuously piling up my knowledge from online courses and hands-on projects.
+_Undergraduate Student at [BINUS University](https://binus.ac.id/)_
  
 <a href="https://github.com/dzniel">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dzniel&theme=buefy&show_icons=true"/>
