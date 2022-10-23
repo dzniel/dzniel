@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-height:100%;">
+# Hi there, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 _Undergraduate Student at [BINUS University](https://binus.ac.id/)_
  
