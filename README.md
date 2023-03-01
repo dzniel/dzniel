@@ -1,6 +1,10 @@
 # Hi there, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-_Undergraduate Student at [BINUS University](https://binus.ac.id/)_
+_Penultimate Computer Science Student at [BINUS University](https://binus.ac.id/)_
+
+_Data Engineer at [PT Bank Central Asia Tbk](https://www.bca.co.id/)_
+
+
  
 <a href="https://github.com/dzniel">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dzniel&theme=buefy&show_icons=true"/>
