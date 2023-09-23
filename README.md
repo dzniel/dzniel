@@ -1,4 +1,5 @@
-# Hi there, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! I'm Daniel 👋
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
 A Penultimate Computer Science Student at [BINUS University](https://binus.ac.id/) currently undergoing an internship as a Data Engineer at [PT Bank Central Asia Tbk (BCA)](https://www.bca.co.id/). As a student, I am deeply engaged in the data field, particularly in data science. However, throughout my internship experience, I have become increasingly intrigued with software engineering. As a result, I would love to delve deeper into the world of software engineering and explore its many possibilities.
 
