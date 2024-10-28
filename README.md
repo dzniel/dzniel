@@ -7,15 +7,7 @@
 
 ## 🛠️ Languages and Tools
 
-![Programming Languages](https://skillicons.dev/icons?i=c,go,java,python)
-
-![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,js,ts,react,tailwind)
-
-![Backend](https://skillicons.dev/icons?i=linux,git,docker,kubernetes,nginx,prometheus,grafana,jenkins,aws,redhat)
-
-![Data related](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka)
-
-![Tools](https://skillicons.dev/icons?i=stackoverflow,obsidian,notion,figma,vscode,github,gitlab,postman,firebase,vercel)
+![Languages and Tools](https://skillicons.dev/icons?i=c,java,go,python,linux,git,docker,nginx,kubernetes,prometheus,grafana,jenkins,aws,postman,postgres,mysql,mongodb,redis,elasticsearch,kafka,figma,html,css,js,ts,react,tailwind,markdown,obsidian,notion&perline=10)
 
 ## ⚡ GitHub Stats
 
