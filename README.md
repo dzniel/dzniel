@@ -2,8 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=200&color=FFFFFF&background=181D2A&multiline=true&width=500&height=60&lines=%F0%9F%90%B3++cat+intro.md;Passionate+software+engineer+and+tech+enthusiast.)
 
-[![LinkedIn badge](https://img.shields.io/badge/linkedin-color?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230e76a8&color=%230e76a8)](https://linkedin.com/in/dzniel)
-[![Mail badge](https://img.shields.io/badge/gmail-color?style=for-the-badge&logo=gmail&labelColor=white&color=white)](mailto:devdzniel@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzniel) &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdzniel@gmail.com) &nbsp;
 
 ## 🛠️ Languages and Tools
 
