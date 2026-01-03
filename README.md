@@ -1,22 +1,21 @@
 # Hey there! I'm Daniel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=200&color=FFFFFF&background=181D2A&multiline=true&width=500&height=60&lines=%F0%9F%90%B3++cat+intro.md;Passionate+software+engineer+and+tech+enthusiast.)
+Currently, working 9-6 as a Software Engineer at Traveloka, contributing meaningfully in the flight ✈️ domain. Also, I try to build something of my own during my 6-9. Feel free to reach me via devdzniel@gmail.com or [Linkedin](https://www.linkedin.com/in/dzniel).
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzniel) &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdzniel@gmail.com) &nbsp;
+### ⚡ GitHub Stats
+
+<a href="https://git.io/streak-stats">
+    <img height="175rem" src="https://streak-stats.demolab.com?user=dzniel&theme=buefy&hide_border=false&border_radius=7.5&mode=daily&card_width=550" alt="GitHub Streak" />
+</a>
+
+<!--
 
 ## 🛠️ Languages and Tools
 
 ![Languages and Tools](https://skillicons.dev/icons?i=c,java,go,python,linux,git,docker,nginx,kubernetes,prometheus,grafana,jenkins,aws,postman,postgres,mysql,mongodb,redis,elasticsearch,kafka,figma,html,css,js,ts,react,tailwind,markdown,obsidian,notion&perline=10)
 
-## ⚡ GitHub Stats
+![profile](https://pixel-profile.vercel.app/api/github-stats?username=dzniel&screen_effect=true)
 
-<a href="https://github.com/dzniel">
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=dzniel&theme=buefy&show_icons=true"/>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzniel&theme=buefy&layout=compact"/>
-</a>
-
-<!--
 **dzniel/dzniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
