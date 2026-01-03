@@ -2,17 +2,17 @@
 
 Currently, working 9-6 as a Software Engineer at Traveloka, contributing meaningfully in the flight ✈️ domain. Also, I try to build something of my own during my 6-9. Feel free to reach me via devdzniel@gmail.com or [Linkedin](https://www.linkedin.com/in/dzniel).
 
-### ⚡ GitHub Stats
-
-<a href="https://git.io/streak-stats">
-    <img height="175rem" src="https://streak-stats.demolab.com?user=dzniel&theme=buefy&hide_border=false&border_radius=7.5&mode=daily&card_width=550" alt="GitHub Streak" />
-</a>
-
 <!--
 
 ## 🛠️ Languages and Tools
 
 ![Languages and Tools](https://skillicons.dev/icons?i=c,java,go,python,linux,git,docker,nginx,kubernetes,prometheus,grafana,jenkins,aws,postman,postgres,mysql,mongodb,redis,elasticsearch,kafka,figma,html,css,js,ts,react,tailwind,markdown,obsidian,notion&perline=10)
+
+### ⚡ GitHub Stats
+
+<a href="https://git.io/streak-stats">
+    <img height="175rem" src="https://streak-stats.demolab.com?user=dzniel&theme=buefy&hide_border=false&border_radius=7.5&mode=daily&card_width=550" alt="GitHub Streak" />
+</a>
 
 ![profile](https://pixel-profile.vercel.app/api/github-stats?username=dzniel&screen_effect=true)
 
